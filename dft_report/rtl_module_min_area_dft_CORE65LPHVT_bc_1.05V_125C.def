@@ -1,0 +1,20 @@
+VERSION 5.4 ;
+NAMESCASESENSITIVE ON ;
+DIVIDERCHAR "/" ;
+BUSBITCHARS "[]" ;
+DESIGN PROCESSOR ;
+
+SCANCHAINS 1 ;
+  - AutoChain_1_seg1_clock_rising 
+#     + PARTITION p_clock_rising 
+#       MAXBITS 3
+    + START PIN DFT_sdi_1
+    + FLOATING 
+       IFU_module/PC_reg[2] ( IN TI ) ( OUT Q ) 
+       IFU_module/PC_reg[3] ( IN TI ) ( OUT Q ) 
+       IFU_module/PC_reg[4] ( IN TI ) ( OUT Q ) 
+    + STOP datapath_module/reg_file_module/reg_memory_reg[0][0]98 TI
+;
+
+END SCANCHAINS 
+END DESIGN 

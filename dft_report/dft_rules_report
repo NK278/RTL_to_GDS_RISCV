@@ -1,0 +1,328 @@
+Checking DFT rules for 'PROCESSOR' module under 'muxed_scan' style
+Processing techlib CORE65LPSVT for muxed_scan scan cells
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQNTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQNTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQNX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQNX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQNX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHQX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHRQNTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHRQNTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHRQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHRQTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHRQTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPHRQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQNTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQNTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQNX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQNX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQNX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPQX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQNTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQNTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQNX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQNX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQNX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPRQX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQNTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQNTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQNX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQNX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQNX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQTX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQTX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQX18' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQX27' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LSS_SDFPSQX35' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQNTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQNTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHQNTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHQNTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQNX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQNX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQNX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHQNX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHQNX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHQTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHQTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHQX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHQX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHQX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHRQNTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHRQNTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHRQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHRQNTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHRQNTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHRQTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHRQTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPHRQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHRQTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPHRQTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQNTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQNTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPQNTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPQNTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQNX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQNX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQNX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPQNX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPQNX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPQTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPQTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPQX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPQX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPQX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQNTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQNTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPRQNTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPRQNTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQNX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQNX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQNX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPRQNX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPRQNX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPRQTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPRQTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPRQX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPRQX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPRQX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQNTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQNTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQNTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPSQNTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPSQNTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQNX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQNX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQNX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPSQNX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPSQNX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQTX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQTX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQTX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPSQTX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPSQTX9' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQX18' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQX27' 
+	 active clock edge:  rising
+  Identified a non-usable, flop scan cell 'HS65_LS_SDFPSQX35' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPSQX4' 
+	 active clock edge:  rising
+  Identified a usable, flop scan cell 'HS65_LS_SDFPSQX9' 
+	 active clock edge:  rising
+Identified 90 valid usable scan cells
+Detected 1 DFT rule violation(s)
+	Summary of check_dft_rules
+	**************************
+	Number of usable scan cells: 90
+Clock Rule Violations:
+---------------------
+	  Internally driven clock net: 0
+	      Tied constant clock net: 1
+	           Undriven clock net: 0
+	Conflicting async & clock net: 0
+	              Misc. clock net: 0
+
+Async. set/reset Rule Violations:
+--------------------------------
+	Internally driven async net: 0
+	      Tied active async net: 0
+	         Undriven async net: 0
+	            Misc. async net: 0
+
+   Total number of DFT violations: 1
+
+Clock Violation
+# 0 <vid_0_clock>: clock signal driven to a constant value in module 'PROCESSOR', net 'reset', inst/pin 'reset'   [CLOCK-02]
+  Effective fanin cone:
+    reset 
+ 
+Violations sorted by type and number of affected registers
+Note - a register may be violating multiple DFT rules.
+	Violation #0 <vid_0_clock> affects 1024 registers
+ 
+Total number of Test Clock Domains: 1
+  DFT Test Clock Domain: clock
+	Test Clock 'clock' (Positive edge) has 1056 registers
+Number of user specified non-Scan registers:   0
+    Number of registers that fail DFT rules: 1024
+    Number of registers that pass DFT rules: 1056
+Percentage of total registers that are scannable: 50%
