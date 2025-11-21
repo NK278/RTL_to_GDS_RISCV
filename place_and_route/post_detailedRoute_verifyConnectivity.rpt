@@ -1,0 +1,28 @@
+VERIFY_CONNECTIVITY use new engine.
+
+******** Start: VERIFY CONNECTIVITY ********
+Start Time: Sat Apr 12 14:38:30 2025
+
+Design Name: PROCESSOR
+Database Units: 1000
+Design Boundary: (0.0000, 0.0000) (229.0000, 224.1000)
+Error Limit = 1000; Warning Limit = 50
+Check all nets
+Net scan_en: Found a geometry with bounding box (0.00,-0.05) (0.52,0.05) outside the design boundary.
+Violations for such geometries will be reported.
+Net vdd: has special routes with opens, dangling Wire.
+Net gnd: has special routes with opens, dangling Wire.
+
+Begin Summary 
+    118 Problem(s) (IMPVFC-200): Special Wires: Pieces of the net are not connected together.
+    320 Problem(s) (IMPVFC-94): The net has dangling wire(s).
+    438 total info(s) created.
+End Summary
+
+End Time: Sat Apr 12 14:38:30 2025
+Time Elapsed: 0:00:00.0
+
+******** End: VERIFY CONNECTIVITY ********
+  Verification Complete : 438 Viols.  0 Wrngs.
+  (CPU Time: 0:00:00.1  MEM: 0.000M)
+

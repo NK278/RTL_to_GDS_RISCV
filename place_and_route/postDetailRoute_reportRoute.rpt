@@ -1,0 +1,175 @@
+*** Statistics for net list PROCESSOR ***
+Number of cells      = 2066
+Number of nets       = 1376
+Number of tri-nets   = 0
+Number of degen nets = 12
+Number of pins       = 7830
+Number of i/os       = 6
+
+Number of nets with    1 terms = 12 (0.9%)
+Number of nets with    2 terms = 933 (67.8%)
+Number of nets with    3 terms = 206 (15.0%)
+Number of nets with    4 terms = 26 (1.9%)
+Number of nets with    5 terms = 38 (2.8%)
+Number of nets with    6 terms = 12 (0.9%)
+Number of nets with    7 terms = 5 (0.4%)
+Number of nets with    8 terms = 9 (0.7%)
+Number of nets with    9 terms = 6 (0.4%)
+Number of nets with >=10 terms = 129 (9.4%)
+
+*** 71 Primitives used:
+Primitive HS65_LS_SDFPRQX4 (3 insts)
+Primitive HS65_LS_SDFPHQX9 (971 insts)
+Primitive HS65_LS_PAOI2X1 (4 insts)
+Primitive HS65_LS_PAO2X9 (6 insts)
+Primitive HS65_LS_PAO2X4 (1 insts)
+Primitive HS65_LS_OR4X7 (2 insts)
+Primitive HS65_LS_OR4X4 (3 insts)
+Primitive HS65_LS_OR3X9 (1 insts)
+Primitive HS65_LS_OR3X4 (3 insts)
+Primitive HS65_LS_OR3ABCX9 (1 insts)
+Primitive HS65_LS_OR3ABCX18 (1 insts)
+Primitive HS65_LS_OR2X9 (12 insts)
+Primitive HS65_LS_OAI22X6 (80 insts)
+Primitive HS65_LS_OAI22X4 (1 insts)
+Primitive HS65_LS_OAI21X3 (1 insts)
+Primitive HS65_LS_OAI212X5 (1 insts)
+Primitive HS65_LS_OAI12X3 (6 insts)
+Primitive HS65_LS_OAI12X2 (2 insts)
+Primitive HS65_LS_OA22X9 (3 insts)
+Primitive HS65_LS_NOR3X1 (4 insts)
+Primitive HS65_LS_NOR3AX2 (3 insts)
+Primitive HS65_LS_NOR2X6 (51 insts)
+Primitive HS65_LS_NOR2X50 (1 insts)
+Primitive HS65_LS_NOR2X3 (2 insts)
+Primitive HS65_LS_NOR2X2 (5 insts)
+Primitive HS65_LS_NOR2AX3 (13 insts)
+Primitive HS65_LS_NAND4X9 (1 insts)
+Primitive HS65_LS_NAND4X18 (1 insts)
+Primitive HS65_LS_NAND4ABX3 (4 insts)
+Primitive HS65_LS_NAND3X6 (1 insts)
+Primitive HS65_LS_NAND3X5 (1 insts)
+Primitive HS65_LS_NAND3AX6 (1 insts)
+Primitive HS65_LS_NAND2X7 (44 insts)
+Primitive HS65_LS_NAND2X2 (8 insts)
+Primitive HS65_LS_NAND2X14 (1 insts)
+Primitive HS65_LS_NAND2AX7 (5 insts)
+Primitive HS65_LS_MX41X7 (28 insts)
+Primitive HS65_LS_MUXI21X2 (53 insts)
+Primitive HS65_LS_MUX21I1X6 (6 insts)
+Primitive HS65_LS_LDLQX9 (3 insts)
+Primitive HS65_LS_IVX9 (151 insts)
+Primitive HS65_LS_IVX7 (25 insts)
+Primitive HS65_LS_IVX18 (1 insts)
+Primitive HS65_LS_IVX13 (1 insts)
+Primitive HS65_LS_HA1X4 (16 insts)
+Primitive HS65_LS_FA1X9 (11 insts)
+Primitive HS65_LS_FA1X4 (250 insts)
+Primitive HS65_LS_CBI4I1X5 (3 insts)
+Primitive HS65_LS_BFX9 (3 insts)
+Primitive HS65_LS_BFX4 (2 insts)
+Primitive HS65_LS_BFX284 (11 insts)
+Primitive HS65_LS_BFX27 (6 insts)
+Primitive HS65_LS_BFX18 (11 insts)
+Primitive HS65_LS_BFX13 (3 insts)
+Primitive HS65_LS_AOI22X6 (32 insts)
+Primitive HS65_LS_AOI222X2 (6 insts)
+Primitive HS65_LS_AOI212X4 (4 insts)
+Primitive HS65_LS_AOI211X4 (1 insts)
+Primitive HS65_LS_AOI211X1 (4 insts)
+Primitive HS65_LS_AOI12X2 (5 insts)
+Primitive HS65_LS_AO32X4 (3 insts)
+Primitive HS65_LS_AO22X9 (42 insts)
+Primitive HS65_LS_AO112X18 (32 insts)
+Primitive HS65_LS_AND3X9 (6 insts)
+Primitive HS65_LS_AND2X9 (2 insts)
+Primitive HS65_LS_AND2X4 (30 insts)
+Primitive HS65_LS_AND2ABX18 (28 insts)
+Primitive HS65_LSS_XOR3X2 (5 insts)
+Primitive HS65_LSS_XOR2X6 (17 insts)
+Primitive HS65_LSS_XOR2X3 (1 insts)
+Primitive HS65_LSS_XNOR2X6 (16 insts)
+************
+*** Net length and connection length statistics (cell PROCESSOR) ***
+
+Total net length = 2.564e+04 (1.281e+04 1.283e+04)
+
+Avg net length = 1.863e+01 (sigma = 3.828e+01)
+Sqrt of avg square net length = 4.258e+01
+
+Avg connection length = 3.965e+00 (sigma = 3.989e+00)
+Sqrt of avg square connection length = 5.624e+00
+
+Net and connection length distribution:
+
+[length   range   ]      #net #connection
+[0.00e+00 4.00e+00]:      275      519
+[4.00e+00 8.00e+00]:      527      556
+[8.00e+00 1.20e+01]:      229      177
+[1.20e+01 1.60e+01]:      104       69
+[1.60e+01 2.00e+01]:       51       32
+[2.00e+01 2.40e+01]:       32       14
+[2.40e+01 2.80e+01]:       13        4
+[2.80e+01 3.20e+01]:        3        0
+[3.20e+01 3.60e+01]:        3        0
+[3.60e+01 4.00e+01]:        4        1
+[4.00e+01 4.40e+01]:        1        0
+[4.40e+01 4.80e+01]:        6        1
+[4.80e+01 5.20e+01]:        4        0
+[5.20e+01 5.60e+01]:        2        1
+[5.60e+01 6.00e+01]:        3        0
+[6.00e+01 6.40e+01]:        1        0
+[6.40e+01 6.80e+01]:        3        0
+[6.80e+01 7.20e+01]:        9        0
+[7.20e+01 7.60e+01]:        7        0
+[7.60e+01 8.00e+01]:        5        0
+[8.00e+01 8.40e+01]:        5        0
+[8.40e+01 8.80e+01]:        9        1
+[8.80e+01 9.20e+01]:        5        0
+[9.20e+01 9.60e+01]:        7        0
+[9.60e+01 1.00e+02]:        9        0
+[1.00e+02 1.04e+02]:       10        0
+[1.04e+02 1.08e+02]:        3        0
+[1.08e+02 1.12e+02]:        2        0
+[1.20e+02 1.24e+02]:        1        0
+[1.24e+02 1.28e+02]:        1        0
+[1.28e+02 1.32e+02]:        1        1
+[1.32e+02 1.36e+02]:        1        0
+[1.36e+02 1.40e+02]:        3        0
+[1.40e+02 1.44e+02]:        2        0
+[1.48e+02 1.52e+02]:        3        0
+[1.52e+02 1.56e+02]:        2        0
+[1.72e+02 1.76e+02]:        2        0
+[1.76e+02 1.80e+02]:        2        0
+[1.80e+02 1.84e+02]:        1        0
+[1.84e+02 1.88e+02]:        1        0
+[1.92e+02 1.96e+02]:        2        0
+[1.96e+02 2.00e+02]:        1        0
+[2.08e+02 2.12e+02]:        1        0
+[2.12e+02 2.16e+02]:        2        0
+[2.16e+02 2.20e+02]:        3        0
+[2.20e+02 2.24e+02]:        4        0
+[2.24e+02 2.28e+02]:        1        0
+[2.28e+02 2.32e+02]:        1        0
+[2.32e+02 2.36e+02]:        2        0
+[2.40e+02 2.44e+02]:        2        0
+[2.48e+02 2.52e+02]:        1        0
+[2.60e+02 2.64e+02]:        2        0
+[2.64e+02 2.68e+02]:        1        0
+[3.08e+02 3.12e+02]:        1        0
+
+
+Total number of long connections = 0
+Io: nrCon=0
+
+
+Total length: 4.701e+04um, number of vias: 19433
+M1(H) length: 2.144e+03um, number of vias: 7844
+M2(V) length: 1.269e+04um, number of vias: 4469
+M3(H) length: 6.498e+03um, number of vias: 3812
+M4(V) length: 1.381e+04um, number of vias: 3209
+M5(H) length: 1.152e+04um, number of vias: 99
+M6(V) length: 3.476e+02um, number of vias: 0
+M7(H) length: 0.000e+00um, number of vias: 0
+M8(V) length: 0.000e+00um
+
